@@ -1,0 +1,22 @@
+{
+  "name": "fem-functional",
+  "version": "1.0.0",
+  "description": "Hardcore Functional Programming in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/osifo/fem-functional.git"
+  },
+  "author": "Anosike Osifo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osifo/fem-functional/issues"
+  },
+  "homepage": "https://github.com/osifo/fem-functional#readme",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
+}
